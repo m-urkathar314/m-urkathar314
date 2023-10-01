@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Kathar</h1>
-<h3 align="center">A passionate IT Engineer | Full Stack Developer</h3>
+<h3 align="center">A Passionate IT Engineer | Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Frameworks , REST API**
 
